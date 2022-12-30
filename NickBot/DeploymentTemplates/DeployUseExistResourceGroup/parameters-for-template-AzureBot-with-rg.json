@@ -1,0 +1,33 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "azureBotId": {
+      "value": "9cb6f937-5bc4-47d3-a3f0-7645d69a5be0"
+    },
+    "azureBotSku": {
+      "value": "S1"
+    },
+    "azureBotRegion": {
+      "value": "global"
+    },
+    "botEndpoint": {
+      "value": ""
+    },
+    "appType": {
+      "value": "MultiTenant"
+    },
+    "appId": {
+      "value": "e0fa85d1-109f-415c-99d5-11eede8ecbed"
+    },
+    "UMSIName": {
+      "value": "OSC-NickBot"
+    },
+    "UMSIResourceGroupName": {
+      "value": "test-group"
+    },
+    "tenantId": {
+      "value": ""
+    }
+  }
+}
